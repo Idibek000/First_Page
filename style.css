@@ -1,0 +1,87 @@
+body{
+    background-image:url(assets/фон2.avif);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    
+
+.header{
+    text-align: center;
+}
+
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+
+.header_tytle {
+    font-size: 30px;
+
+}
+
+
+.header_subtytle {
+    color: rgb(69, 165, 216);
+
+}
+
+main{
+    border:1px darkgray solid;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #48cfe1;
+}
+
+.video iframe{
+    height: 490px;
+    width: 800px;
+}
+
+.hobbies ol{
+    list-style: none;
+}
+
+.ed_table{
+    border-collapse: collapse ;
+    width: 100%;
+}
+
+.ed_table th,
+.ed_table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote{
+    font-size: 32px;
+}
+
+.form-control{
+    width: 100%;
+}
+
+.form{
+    width: 600px;
+    margin:0 auto;
+}
+
+.form_submit{
+    display:block;
+    margin: 0 auto;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+}
+
+.contacts_link{
+    text-decoration: none;
+    color: black;
+}
